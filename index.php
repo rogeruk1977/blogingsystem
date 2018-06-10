@@ -26,7 +26,7 @@
                     $post_title = $row['post_title'];
                     $post_author = $row['post_author'];
                     $post_date = $row['post_date'];
-                    $post_tag = $row['post_tag'];
+                    $post_tags = $row['post_tags'];
                     $post_image = $row['post_image'];
                     $post_content = $row['post_content'];
                  ?>
